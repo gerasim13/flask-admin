@@ -1,3 +1,1 @@
 git+https://github.com/flask-admin/flask-admin.git
-flask_babelex
-Flask-Babel

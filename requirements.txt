@@ -1,1 +1,2 @@
 git+https://github.com/flask-admin/flask-admin.git
+Flask-Babel
